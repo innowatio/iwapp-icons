@@ -1,20 +1,21 @@
 {
-  "name": "iwwa-icons",
-  "version": "1.0.7",
-  "description": "innowatio font icons",
+  "name": "iwapp-icons",
+  "version": "1.0.0",
+  "description": "innowatio app icons",
   "main": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/innowatio/iwwa-icons.git"
+    "url": "git+https://github.com/innowatio/iwapp-icons.git"
   },
   "keywords": [
     "icons",
     "font",
-    "innowatio"
+    "innowatio",
+    "app"
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/innowatio/iwwa-icons/issues"
+    "url": "https://github.com/innowatio/iwapp-icons/issues"
   },
-  "homepage": "https://github.com/innowatio/iwwa-icons#readme"
+  "homepage": "https://github.com/innowatio/iwapp-icons#readme"
 }
