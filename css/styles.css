@@ -1,0 +1,170 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "iwapp";
+  src:url("../fonts/iwapp.eot");
+  src:url("../fonts/iwapp.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/iwapp.woff") format("woff"),
+    url("../fonts/iwapp.ttf") format("truetype"),
+    url("../fonts/iwapp.svg#iwwa") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+[data-icon]:before {
+  font-family: "iwapp" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-iw-"]:before,
+[class*=" icon-iw-"]:before {
+  font-family: "iwapp" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-iw-alarm:before {
+  content: "\61";
+}
+.icon-iw-alarms-tip:before {
+  content: "\62";
+}
+.icon-iw-alert:before {
+  content: "\63";
+}
+.icon-iw-badge:before {
+  content: "\64";
+}
+.icon-iw-broken-clouds:before {
+  content: "\65";
+}
+.icon-iw-buildings:before {
+  content: "\66";
+}
+.icon-iw-chart:before {
+  content: "\67";
+}
+.icon-iw-clear-sky:before {
+  content: "\69";
+}
+.icon-iw-clouds:before {
+  content: "\6a";
+}
+.icon-iw-cooling:before {
+  content: "\6b";
+}
+.icon-iw-daily:before {
+  content: "\6c";
+}
+.icon-iw-demand-response:before {
+  content: "\6d";
+}
+.icon-iw-demographics:before {
+  content: "\6e";
+}
+.icon-iw-edit:before {
+  content: "\6f";
+}
+.icon-iw-energetic-efficiency:before {
+  content: "\70";
+}
+.icon-iw-energetic-tip:before {
+  content: "\71";
+}
+.icon-iw-equipment:before {
+  content: "\72";
+}
+.icon-iw-few-clouds:before {
+  content: "\73";
+}
+.icon-iw-gauge:before {
+  content: "\74";
+}
+.icon-iw-heating:before {
+  content: "\75";
+}
+.icon-iw-innowatio-logo:before {
+  content: "\76";
+}
+.icon-iw-lightbulb:before {
+  content: "\77";
+}
+.icon-iw-lighting:before {
+  content: "\78";
+}
+.icon-iw-like:before {
+  content: "\79";
+}
+.icon-iw-lock:before {
+  content: "\7a";
+}
+.icon-iw-logout:before {
+  content: "\41";
+}
+.icon-iw-menu:before {
+  content: "\42";
+}
+.icon-iw-mist:before {
+  content: "\43";
+}
+.icon-iw-monthly:before {
+  content: "\44";
+}
+.icon-iw-overview:before {
+  content: "\45";
+}
+.icon-iw-power:before {
+  content: "\46";
+}
+.icon-iw-rain:before {
+  content: "\47";
+}
+.icon-iw-recycling:before {
+  content: "\48";
+}
+.icon-iw-report:before {
+  content: "\49";
+}
+.icon-iw-scattered-clouds:before {
+  content: "\4a";
+}
+.icon-iw-smart-building:before {
+  content: "\4b";
+}
+.icon-iw-snow:before {
+  content: "\4c";
+}
+.icon-iw-statistics:before {
+  content: "\4d";
+}
+.icon-iw-thunderstorm:before {
+  content: "\4e";
+}
+.icon-iw-upgrade:before {
+  content: "\4f";
+}
+.icon-iw-user:before {
+  content: "\50";
+}
+.icon-iw-welcome:before {
+  content: "\51";
+}
+.icon-iw-check:before {
+  content: "\68";
+}
