@@ -168,3 +168,21 @@
 .icon-iw-check:before {
   content: "\68";
 }
+.icon-iw-bad:before {
+  content: "\52";
+}
+.icon-iw-badge-buildings:before {
+  content: "\53";
+}
+.icon-iw-badge-green:before {
+  content: "\54";
+}
+.icon-iw-middling:before {
+  content: "\55";
+}
+.icon-iw-good:before {
+  content: "\56";
+}
+.icon-iw-reset:before {
+  content: "\57";
+}
