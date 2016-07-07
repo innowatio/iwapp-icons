@@ -186,3 +186,18 @@
 .icon-iw-reset:before {
   content: "\57";
 }
+.icon-iw-night-clear-sky:before {
+  content: "\58";
+}
+.icon-iw-night-clouds:before {
+  content: "\59";
+}
+.icon-iw-center:before {
+  content: "\5a";
+}
+.icon-iw-badge-house:before {
+  content: "\30";
+}
+.icon-iw-night-few-clouds:before {
+  content: "\31";
+}
