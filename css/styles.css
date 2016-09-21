@@ -171,12 +171,6 @@
 .icon-iw-bad:before {
   content: "\52";
 }
-.icon-iw-badge-buildings:before {
-  content: "\53";
-}
-.icon-iw-badge-green:before {
-  content: "\54";
-}
 .icon-iw-middling:before {
   content: "\55";
 }
@@ -195,9 +189,9 @@
 .icon-iw-center:before {
   content: "\5a";
 }
-.icon-iw-badge-house:before {
-  content: "\30";
-}
 .icon-iw-night-few-clouds:before {
   content: "\31";
+}
+.icon-iw-search:before {
+  content: "\53";
 }
